@@ -1,0 +1,16 @@
+.navbar-container {
+  background-color: #f0f0f0;
+  border-bottom: 1px solid #ccc;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding-inline: 20px;
+}
+.navbar-title {
+  font-family: "Cabin Sketch", cursive;
+  font-size: 24px;
+}
+.navbar-logo img {
+  width: 32px;
+  margin-right: 10px;
+}
